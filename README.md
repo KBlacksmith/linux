@@ -20,6 +20,10 @@
 - sudo snap install flutter --classic
 - flutter doctor --android -licenses
 - sudo apt install vi
+- git config --global user.name
+- git config --global user.email
+- sudo snap install multipass
+- sudo apt-get install ruby-full
 
 # Snap Store
 - Code Blocks
@@ -61,3 +65,22 @@
 - Rust https://www.rust-lang.org/learn/get-started
 
 # VS Code Extensions
+- Angular Snippets
+- C/C++ Extension Pack
+- Flutter
+- Dart
+- Extension Pack for Java
+- HTML CSS Support
+- JavaScript (ES6) code snippets
+- Javascript and Typescript
+- JS-CSS-HTML Formatter
+- Jupyter
+- Live Preview
+- Live Server
+- Live Share
+- Python
+- Remote - SSH
+- Remote - WSL
+- Remote - Containers
+- Rust- analyzer
+- mssql
