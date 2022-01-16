@@ -54,6 +54,8 @@
 - Audacity https://www.audacityteam.org/
 - Apache NetBeans https://netbeans.apache.org/
 - GameMaker Studio 2 (If available) https://www.yoyogames.com/en
+- Virtual Box https://www.virtualbox.org/
+- Raspberry Pi OS https://www.raspberrypi.com/software/
 
 # Install
 - nvm https://github.com/nvm-sh/nvm#install--update-script
