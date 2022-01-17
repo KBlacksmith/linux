@@ -24,6 +24,7 @@
 - git config --global user.email
 - sudo snap install multipass
 - sudo apt-get install ruby-full
+- sudo apt-get install build-essentials
 
 # Snap Store
 - Code Blocks
