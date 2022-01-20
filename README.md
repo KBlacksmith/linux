@@ -87,3 +87,19 @@
 - Remote - Containers
 - Rust- analyzer
 - mssql
+
+# Useful commands
+- gedit: Text editor
+- evince: Document Viewer (PDF)
+- libreoffice: Documents (.docx, .ppt, .xslx)
+- cheese: Camera
+- nautilus: File Explorer
+- browse: Default browser
+- gnome-character: Show characters and emojis
+- gnome-control-center: Settings
+- gnome-calculator: Calculator
+- gnome-terminal: Terminal
+- vi: Vim
+- gnome-screenshot: Take screenshot
+- firefox: Firefox
+- gnome-www-broser: Chrome (?)
