@@ -103,3 +103,4 @@
 - gnome-screenshot: Take screenshot
 - firefox: Firefox
 - gnome-www-broser: Chrome (?)
+- eog: Image Viewer (jpeg)
