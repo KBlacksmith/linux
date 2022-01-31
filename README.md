@@ -104,3 +104,7 @@
 - firefox: Firefox
 - gnome-www-broser: Chrome (?)
 - eog: Image Viewer (jpeg)
+- cat: 
+- trash: 
+- netcat: 
+- touch: 
