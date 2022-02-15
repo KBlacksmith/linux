@@ -39,7 +39,7 @@
 - PDF Arranger
 
 # Download
-- sudo apt install ./pachake.deb
+- sudo apt install ./package.deb
 - Steam https://store.steampowered.com/about/
 - Atom https://atom.io/
 - Discord https://discord.com/
@@ -66,6 +66,7 @@
 - npm install -g @ionic/cli
 - npm install -g typescript
 - Rust https://www.rust-lang.org/learn/get-started
+- Ruby sudo apt-get install ruby-full
 
 # VS Code Extensions
 - Angular Snippets
@@ -108,3 +109,6 @@
 - trash: 
 - netcat: 
 - touch: 
+
+# Python Modules
+- Tkinter (GUI): sudo apt install python3-tk
