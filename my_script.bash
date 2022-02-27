@@ -1,6 +1,9 @@
 #! /bin/sh
 
 sudo apt-get update
+sudo apt install git
+git config --global user.name
+git config --global user.email
 sudo apt install openjdk-8-jdk
 sudo apt install openjdk-11-jdk
 sudo apt install openjdk-17-jdk
@@ -17,7 +20,5 @@ sudo apt install printer-driver-escpr
 sudo apt install zip
 sudo snap install flutter --classic
 sudo apt install vi
-git config --global user.name
-git config --global user.email
 sudo apt-get install build-essential
 sudo apt-get update
