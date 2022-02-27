@@ -19,4 +19,5 @@ sudo ubuntu-drivers autoinstall
 sudo apt install printer-driver-escpr
 sudo snap install flutter --classic
 sudo apt-get install build-essential
+sudo apt install zip
 sudo apt-get autoremove
