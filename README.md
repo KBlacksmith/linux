@@ -57,6 +57,7 @@
 - GameMaker Studio 2 (If available) https://www.yoyogames.com/en
 - Virtual Box https://www.virtualbox.org/
 - Raspberry Pi OS https://www.raspberrypi.com/software/
+- Intellij Idea https://www.jetbrains.com/es-es/idea/download/#section=linux
 
 # Install
 - nvm https://github.com/nvm-sh/nvm#install--update-script
