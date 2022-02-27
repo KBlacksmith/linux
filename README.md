@@ -68,6 +68,7 @@
 - npm install -g typescript
 - Rust https://www.rust-lang.org/learn/get-started
 - Ruby sudo apt-get install ruby-full
+- Unity Hub
 
 # VS Code Extensions
 - Angular Snippets
