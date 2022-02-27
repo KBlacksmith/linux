@@ -112,6 +112,7 @@
 - trash: 
 - netcat: 
 - touch: 
+- chmod: Modify executable
 
 # Python Modules
 - Tkinter (GUI): sudo apt install python3-tk
