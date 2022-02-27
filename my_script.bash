@@ -17,7 +17,6 @@ sudo apt update
 sudo apt install obs-studio
 sudo ubuntu-drivers autoinstall
 sudo apt install printer-driver-escpr
-sudo apt install zip
 sudo snap install flutter --classic
 sudo apt install vi
 sudo apt-get install build-essential
