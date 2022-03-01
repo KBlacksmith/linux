@@ -3,7 +3,6 @@
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt update
 sudo ubuntu-drivers autoinstall
-
 #Apt
 sudo apt install git
 git config --global user.name "Kenneth Rodriguez"
@@ -25,14 +24,12 @@ sudo apt install pdfarranger
 sudo apt install codeblocks
 sudo apt install idle
 sudo apt install vim
-
 #Snap
 sudo snap install flutter --classic
 sudo snap install spotify
 sudo snap install shortwave
 sudo snap install vlc
 sudo snap install android-studio --classic
-
 #Browsing
 browse https://github.com/nvm-sh/nvm#install--update-script
 browse https://github.com/denoland/deno_install
@@ -52,6 +49,4 @@ browse https://unity.com/download
 browse https://www.rust-lang.org/
 browse https://deno.land/#installation
 #browse Intellij
-
 sudo apt-get autoremove
-
