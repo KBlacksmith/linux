@@ -3,63 +3,25 @@
 # Commands
 - sudo apt update
 - sudo apt upgrade
-- sudo apt install openjdk-8-jdk
-- sudo apt install openjdk11-jdk
-- sudo apt install openjdk-17-jdk
-- sudo update-alternatives --config java
-- sudo update-alternatives --config javac
-- sudo update-alternatives --config jar
-- sudo apt install trash-cli
-- sudo apt install ffmpeg
-- sudo add-apt-repository ppa:obsproject/obs-studio
-- sudo apt update
-- sudo apt install obs-studio
+- sudo apt install app
+- sudo update-alternatives --config java (example)
+- sudo add-apt-repository repo
 - sudo ubuntu-drivers autoinstall
-- sudo apt install printer-driver-escpr
-- (Optional) sudo apt install zip
-- sudo snap install flutter --classic
-- flutter doctor --android -licenses
-- sudo apt install vi
+- sudo snap install app
+- flutter doctor
+- vim file.ext
+- vi file.ext
 - git config --global user.name
 - git config --global user.email
-- sudo snap install multipass
-- sudo apt-get install ruby-full
-- sudo apt-get install build-essentials
-
-# Snap Store
-- Code Blocks
-- GIMP
-- GParted
-- Raspberry Pi Imager
-- Remmina
-- Shortwave
-- VLC
-- Spotify
-- Android Studio
-- PDF Arranger
-
-# Download
+- g++ file.cpp/file.c
+    - g++ -std=version file.cpp -o app.out
+- trash file
+- codeblocks (Start CodeBlocks)
+- code (Start Visual Studio Code)
+    - code . (Opens current directory in VS Code)
+- ffplay -nodisp -autoexit file (Play audio file from terminal)
 - sudo apt install ./package.deb
-- Steam https://store.steampowered.com/about/
-- Atom https://atom.io/
-- Discord https://discord.com/
-- Chrome https://www.google.com/intl/en/chrome/?brand=UUXU&gclid=CjwKCAiA_omPBhBBEiwAcg7smef7yNJsfeSnetRVu9By-7WqEcbPzDKE7-2FHnxrnG0zHlFL9SCIGRoCgxcQAvD_BwE&gclsrc=aw.ds
-- VS Code https://code.visualstudio.com/
-- Zoom https://zoom.us/
-- Deno https://deno.land/
-    - sudo nano .bashrc
-- Monero GUI https://www.getmonero.org/downloads/
-- Openshot https://www.openshot.org/
-- Krita https://krita.org/en/
-- Godot https://godotengine.org/
-- Audacity https://www.audacityteam.org/
-- Apache NetBeans https://netbeans.apache.org/
-- GameMaker Studio 2 (If available) https://www.yoyogames.com/en
-- Virtual Box https://www.virtualbox.org/
-- Raspberry Pi OS https://www.raspberrypi.com/software/
-- Intellij Idea https://www.jetbrains.com/es-es/idea/download/#section=linux
-- IDLE
-
+- wget <link> (Download link)
 # Install
 - nvm https://github.com/nvm-sh/nvm#install--update-script
 -nvm install --lts

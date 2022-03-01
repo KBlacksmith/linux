@@ -24,6 +24,7 @@ sudo apt install gparted
 sudo apt install pdfarranger
 sudo apt install codeblocks
 sudo apt install idle
+sudo apt install vim
 
 #Snap
 sudo snap install flutter --classic
@@ -50,5 +51,7 @@ browse https://angular.io/
 browse https://unity.com/download
 browse https://www.rust-lang.org/
 browse https://deno.land/#installation
+#browse Intellij
 
 sudo apt-get autoremove
+
