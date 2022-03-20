@@ -2,7 +2,7 @@
 #Basic Commands
 sudo add-apt-repository ppa:obsproject/obs-studio
 sudo apt update
-sudo ubuntu-drivers autoinstall
+sudo ubuntu-drivers install
 #Apt
 sudo apt install git
 git config --global user.name "Kenneth Rodriguez"
