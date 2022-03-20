@@ -24,9 +24,9 @@ sudo apt install pdfarranger
 sudo apt install codeblocks
 sudo apt install idle
 sudo apt install vim
+sudo apt install vlc
 #Snap
 sudo snap install shortwave
-sudo snap install vlc
 sudo snap install android-studio --classic
 #Browsing
 browse https://www.spotify.com
@@ -48,5 +48,7 @@ browse https://angular.io/
 browse https://unity.com/download
 browse https://www.rust-lang.org/
 browse https://deno.land/#installation
+browse https://google.com/search?q=microsoft+teams
+browse https://google.com/search?q=android+studio
 #browse Intellij
 sudo apt-get autoremove
