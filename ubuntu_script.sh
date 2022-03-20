@@ -25,12 +25,12 @@ sudo apt install codeblocks
 sudo apt install idle
 sudo apt install vim
 #Snap
-sudo snap install flutter --classic
-sudo snap install spotify
 sudo snap install shortwave
 sudo snap install vlc
 sudo snap install android-studio --classic
 #Browsing
+browse https://www.spotify.com
+browse https://docs.flutter.dev
 browse https://github.com/nvm-sh/nvm#install--update-script
 browse https://github.com/denoland/deno_install
 browse https://zoom.us/download
