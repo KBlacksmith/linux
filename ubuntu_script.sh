@@ -50,5 +50,6 @@ browse https://www.rust-lang.org/
 browse https://deno.land/#installation
 browse https://google.com/search?q=microsoft+teams
 browse https://google.com/search?q=android+studio
+browse https://google.com/search?q=restream.io
 #browse Intellij
-sudo apt-get autoremove
+#sudo apt-get autoremove
