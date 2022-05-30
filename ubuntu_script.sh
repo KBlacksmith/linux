@@ -25,6 +25,7 @@ sudo apt install codeblocks
 sudo apt install idle
 sudo apt install vim
 sudo apt install vlc
+#sudo apt install cmatrix
 #Snap
 sudo snap install shortwave
 sudo snap install android-studio --classic
@@ -51,5 +52,10 @@ browse https://deno.land/#installation
 browse https://google.com/search?q=microsoft+teams
 browse https://google.com/search?q=android+studio
 browse https://google.com/search?q=restream.io
+browse https://www.balena.io/etcher/
+browse https://discord.com/
+browse https://www.gimp.org/
+browse https://inkscape.org/es/
+browse https://code.visualstudio.com/
 #browse Intellij
 #sudo apt-get autoremove
